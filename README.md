@@ -4,7 +4,7 @@ Company:CODTECH IT SOLUTION
 ID:CT08DS5243
 Domain:Python Programming
 Duration:july to august 2024
-Mentor:SANTHOSH
+Mentor:SANTHOSH KUMAR
 
 Overview of the project
 
